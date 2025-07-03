@@ -1,0 +1,74 @@
+Title: VVVVVVVVVVVVVVVVVVVVVVVVV
+Author: The Letter V
+Copyright: Public Domain as of MMXXV
+
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: reveal 1 Down
+
+Revealing clue 1 Down
+
+[41m [0m[0mV[0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mV[0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mV[0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mV[0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mV[0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: reveal 2 Down
+
+Revealing clue 2 Down
+
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0mV[0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: reveal 3 Down
+
+Revealing clue 3 Down
+
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0mV[0m[0m [0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0mV[0m[0m [0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0mV[0m[0m [0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0mV[0m[0m [0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[0m [0m[0mV[0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0mV[0m[0m [0m[0mV[0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: reveal 4 Down
+
+Revealing clue 4 Down
+
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0mV[0m[0mV[0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0mV[0m[0mV[0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0mV[0m[0mV[0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0mV[0m[0mV[0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[0m [0m[0mV[0m[0mV[0m[41m [0m
+[41m [0m[41m [0m[0mV[0m[0m [0m[0mV[0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: reveal 12 Down
+
+Revealing clue 12 Down
+
+Congratulations! You won!
+
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0mV[0m[0mV[0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0mV[0m[0mV[0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0mV[0m[0mV[0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0mV[0m[0mV[0m[41m [0m
+[41m [0m[0mV[0m[0mV[0m[0mV[0m[0mV[0m[0mV[0m[41m [0m
+[41m [0m[41m [0m[0mV[0m[0mV[0m[0mV[0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0mV[0m[41m [0m[41m [0m[41m [0m
+

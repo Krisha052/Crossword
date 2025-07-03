@@ -1,0 +1,87 @@
+Title: VVVVVVVVVVVVVVVVVVVVVVVVV
+Author: The Letter V
+Copyright: Public Domain as of MMXXV
+
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: clues
+
+1 Across at (0, 1):
+AV1
+
+1 Down at (0, 1):
+DV1
+
+2 Down at (0, 2):
+DV2
+
+3 Across at (0, 4):
+AV3
+
+3 Down at (0, 4):
+DV3
+
+4 Down at (0, 5):
+DV4
+
+5 Across at (1, 1):
+AV5
+
+6 Across at (1, 4):
+AV6
+
+7 Across at (2, 1):
+AV7
+
+8 Across at (2, 4):
+AV8
+
+9 Across at (3, 1):
+AV9
+
+10 Across at (3, 4):
+AV10
+
+11 Across at (4, 1):
+AV11
+
+12 Down at (4, 3):
+DV12
+
+13 Across at (5, 2):
+AV13
+
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: numbers
+
+[41m [0m[41m [0m 1 2[41m [0m[41m [0m 3 4[41m [0m[41m [0m
+[41m [0m[41m [0m 5  [41m [0m[41m [0m 6  [41m [0m[41m [0m
+[41m [0m[41m [0m 7  [41m [0m[41m [0m 8  [41m [0m[41m [0m
+[41m [0m[41m [0m 9  [41m [0m[41m [0m10  [41m [0m[41m [0m
+[41m [0m[41m [0m11  12    [41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[41m [0m13    [41m [0m[41m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[41m [0m[41m [0m[41m [0m  [41m [0m[41m [0m[41m [0m[41m [0m[41m [0m[41m [0m
+
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: quit
+
