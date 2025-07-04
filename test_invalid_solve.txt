@@ -1,0 +1,43 @@
+Title: VVVVVVVVVVVVVVVVVVVVVVVVV
+Author: The Letter V
+Copyright: Public Domain as of MMXXV
+
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: solve 1 Acrissoss
+
+AV1
+[41m [0m[47;30m [0m[47;30m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter your answer for 1 Across: ABC
+
+Invalid answer, try again.
+
+Enter your answer for 1 Across: A
+
+Invalid answer, try again.
+
+Enter your answer for 1 Across: VV
+
+[41m [0m[0mV[0m[0mV[0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: quit
+
