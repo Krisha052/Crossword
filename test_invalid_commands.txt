@@ -1,0 +1,74 @@
+Title: VVVVVVVVVVVVVVVVVVVVVVVVV
+Author: The Letter V
+Copyright: Public Domain as of MMXXV
+
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: ksjadhkjshdakjh
+
+Command "ksjadhkjshdakjh" not recognized.
+
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: solve 1000 Across
+
+Clue does not exist.
+
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: solve 1000 Down
+
+Clue does not exist.
+
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: solve 100 down
+
+Clue does not exist.
+
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: quiet
+
+Command "quiet" not recognized.
+
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[41m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[41m [0m[0m [0m[0m [0m[0m [0m[41m [0m[41m [0m
+[41m [0m[41m [0m[41m [0m[0m [0m[41m [0m[41m [0m[41m [0m
+
+Enter a command: quit
+
