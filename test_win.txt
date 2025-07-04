@@ -1,0 +1,162 @@
+Title: Swinging the Alphabet
+Author: The English Language
+Copyright: Public Domain
+
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter a command: solve 1 Acrissoss
+
+ABCDE
+[41m [0m[47;30m [0m[47;30m [0m[47;30m [0m[47;30m [0m[47;30m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter your answer for 1 Across: ABCDE
+
+[41m [0m[0mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[0m [0m[0m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter a command: solve 1 Down
+
+AFJNRV
+[41m [0m[47;30mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[47;30m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[47;30m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[47;30m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[47;30m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+[0m [0m[47;30m [0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter your answer for 1 Down: AFJNRV
+
+[41m [0m[0mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[0mF[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mJ[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mN[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mR[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[0m [0m[0mV[0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter a command: solve numbers
+
+[41m [0m1234 
+[41m [0m5   [41m [0m
+[41m [0m6   [41m [0m
+[41m [0m7   [41m [0m
+[41m [0m8   [41m [0m
+9    [41m [0m
+
+[41m [0m[0mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[0mF[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mJ[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mN[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mR[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[0m [0m[0mV[0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter a command: solve 5 Across
+
+FGHI
+[41m [0m[0mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[47;30mF[0m[47;30m [0m[47;30m [0m[47;30m [0m[41m [0m
+[41m [0m[0mJ[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mN[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mR[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[0m [0m[0mV[0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter your answer for 5 Across: FGHI
+
+[41m [0m[0mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[0mF[0m[0mG[0m[0mH[0m[0mI[0m[41m [0m
+[41m [0m[0mJ[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mN[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mR[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[0m [0m[0mV[0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter a command: solve 6 Across
+
+JKLM
+[41m [0m[0mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[0mF[0m[0mG[0m[0mH[0m[0mI[0m[41m [0m
+[41m [0m[47;30mJ[0m[47;30m [0m[47;30m [0m[47;30m [0m[41m [0m
+[41m [0m[0mN[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mR[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[0m [0m[0mV[0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter your answer for 6 Across: JKLM
+
+[41m [0m[0mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[0mF[0m[0mG[0m[0mH[0m[0mI[0m[41m [0m
+[41m [0m[0mJ[0m[0mK[0m[0mL[0m[0mM[0m[41m [0m
+[41m [0m[0mN[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[41m [0m[0mR[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[0m [0m[0mV[0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter a command: solve 7 Across
+
+NOPQ
+[41m [0m[0mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[0mF[0m[0mG[0m[0mH[0m[0mI[0m[41m [0m
+[41m [0m[0mJ[0m[0mK[0m[0mL[0m[0mM[0m[41m [0m
+[41m [0m[47;30mN[0m[47;30m [0m[47;30m [0m[47;30m [0m[41m [0m
+[41m [0m[0mR[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[0m [0m[0mV[0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter your answer for 7 Across: NOPQ
+
+[41m [0m[0mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[0mF[0m[0mG[0m[0mH[0m[0mI[0m[41m [0m
+[41m [0m[0mJ[0m[0mK[0m[0mL[0m[0mM[0m[41m [0m
+[41m [0m[0mN[0m[0mO[0m[0mP[0m[0mQ[0m[41m [0m
+[41m [0m[0mR[0m[0m [0m[0m [0m[0m [0m[41m [0m
+[0m [0m[0mV[0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter a command: solve 8 Across
+
+RSTU
+[41m [0m[0mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[0mF[0m[0mG[0m[0mH[0m[0mI[0m[41m [0m
+[41m [0m[0mJ[0m[0mK[0m[0mL[0m[0mM[0m[41m [0m
+[41m [0m[0mN[0m[0mO[0m[0mP[0m[0mQ[0m[41m [0m
+[41m [0m[47;30mR[0m[47;30m [0m[47;30m [0m[47;30m [0m[41m [0m
+[0m [0m[0mV[0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter your answer for 8 Across: RSTU
+
+[41m [0m[0mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[0mF[0m[0mG[0m[0mH[0m[0mI[0m[41m [0m
+[41m [0m[0mJ[0m[0mK[0m[0mL[0m[0mM[0m[41m [0m
+[41m [0m[0mN[0m[0mO[0m[0mP[0m[0mQ[0m[41m [0m
+[41m [0m[0mR[0m[0mS[0m[0mT[0m[0mU[0m[41m [0m
+[0m [0m[0mV[0m[0m [0m[0m [0m[0m [0m[41m [0m
+
+Enter a command: solve 9 Acrissoss
+
+VWXYZ
+[41m [0m[0mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[0mF[0m[0mG[0m[0mH[0m[0mI[0m[41m [0m
+[41m [0m[0mJ[0m[0mK[0m[0mL[0m[0mM[0m[41m [0m
+[41m [0m[0mN[0m[0mO[0m[0mP[0m[0mQ[0m[41m [0m
+[41m [0m[0mR[0m[0mS[0m[0mT[0m[0mU[0m[41m [0m
+[47;30m [0m[47;30mV[0m[47;30m [0m[47;30m [0m[47;30m [0m[41m [0m
+
+Enter your answer for 9 Across: VWXYZ
+
+Congratulations! You won!
+
+[41m [0m[0mA[0m[0mB[0m[0mC[0m[0mD[0m[0mE[0m
+[41m [0m[0mF[0m[0mG[0m[0mH[0m[0mI[0m[41m [0m
+[41m [0m[0mJ[0m[0mK[0m[0mL[0m[0mM[0m[41m [0m
+[41m [0m[0mN[0m[0mO[0m[0mP[0m[0mQ[0m[41m [0m
+[41m [0m[0mR[0m[0mS[0m[0mT[0m[0mU[0m[41m [0m
+[0mV[0m[0mW[0m[0mX[0m[0mY[0m[0mZ[0m[41m [0m
+
